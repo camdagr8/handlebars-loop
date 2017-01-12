@@ -20,7 +20,7 @@ Should output
 ## Parameters
 
 | Argument	| Type 		| Description								|
-|-----------|-----------|-------------------------------------------|
+|:----------|:----------|:------------------------------------------|
 | from		| Number 	| The number to start iterating from.		|
 | to 		| Number 	| The number to stop iterating at. 			|
 | increase	| Number 	| The number to increase by per iteration 	|
