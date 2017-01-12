@@ -9,6 +9,6 @@ module.exports = function(from, to, inc, block) {
 	block = block || {fn: function () { return arguments[0]; }};
 
 	var output = '';
-	for (var i = from; i < to; i += inc) { output += block.fn(i); }
+	for (var i = from; i <= to; i += inc) { output += block.fn(i); }
 	return output;
 };
