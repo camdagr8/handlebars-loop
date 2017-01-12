@@ -1,5 +1,5 @@
 # Handlebars Loop
-Handlebars helper that iterates x number of times.
+Handlebars helper that iterates through a range of numbers.
 
 ## Usage
 ```javascript
@@ -16,3 +16,11 @@ Should output
 <div>3</div>
 <div>4</div>
 ```
+
+## Parameters
+
+| Argument	| Type 		| Description								|
+|-----------|:---------:|------------------------------------------:|
+| From		| Number 	| The number to start iterating from.		|
+| To 		| Number 	| The number to stop iterating at. 			|
+| Increase	| Number 	| The number to increase by per iteration 	|
