@@ -1,7 +1,7 @@
 {
   "name": "handlebars-loop",
-  "version": "0.0.1",
-  "description": "Handlebars helper that iterates like a for loop does. ",
+  "version": "1.0.0",
+  "description": "Handlebars helper that iterates like a for loop.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
