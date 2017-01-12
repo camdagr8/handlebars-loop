@@ -1,6 +1,6 @@
 {
   "name": "handlebars-loop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Handlebars helper that iterates like a for loop.",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,11 @@
     "url": "git+https://github.com/camdagr8/handlebars-loop.git"
   },
   "keywords": [
-    "handlebars","iterate", "loop","helper","block"
+    "handlebars",
+    "iterate",
+    "loop",
+    "helper",
+    "block"
   ],
   "author": "Cam Tullos <cam@tullos.ninja> (http://cam.tullos.ninja)",
   "license": "GPL-3.0",
