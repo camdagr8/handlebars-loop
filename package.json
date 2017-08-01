@@ -1,14 +1,14 @@
 {
-  "name": "handlebars-loop",
-  "version": "1.0.3",
-  "description": "Handlebars helper that iterates like a for loop.",
+  "name": "handlebars-cond",
+  "version": "0.0.0",
+  "description": "Handlebars helper that allows you to use comparison conditions like a typical IF statement.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/camdagr8/handlebars-loop.git"
+    "url": "git+https://github.com/camdagr8/handlebars-cond.git"
   },
   "keywords": [
     "handlebars",
@@ -20,9 +20,9 @@
   "author": "Cam Tullos <cam@tullos.ninja> (http://cam.tullos.ninja)",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/camdagr8/handlebars-loop/issues"
+    "url": "https://github.com/camdagr8/handlebars-cond/issues"
   },
-  "homepage": "https://github.com/camdagr8/handlebars-loop#readme",
+  "homepage": "https://github.com/camdagr8/handlebars-cond#readme",
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0"
